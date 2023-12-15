@@ -1,113 +1,65 @@
 #EXTM3U
-#EXTINF:-1 group-title="央卫综合移动",CCTV1
-https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV2
-https://live.goodiptv.club/api/bestv.php?id=cctv2hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV3
-https://live.goodiptv.club/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV4
-https://live.goodiptv.club/api/bestv.php?id=cctv4hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV5
-https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV5+
-https://live.goodiptv.club/api/bestv.php?id=cctv5phd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV6
-https://live.goodiptv.club/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV7
-https://live.goodiptv.club/api/bestv.php?id=cctv7hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV8
-https://live.goodiptv.club/api/bestv.php?id=cctv8hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV9
-https://live.goodiptv.club/api/bestv.php?id=cctv9hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV10
-https://live.goodiptv.club/api/bestv.php?id=cctv10hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV11
-https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV12
-https://live.goodiptv.club/api/bestv.php?id=cctv12hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV13
-https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV14
-https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV15
-https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV16
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV16-4K
-https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV-4K
-https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV17
-https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",CCTV4欧洲
-http://120.234.220.107:9000/udp/239.21.0.107:3768
-#EXTINF:-1 group-title="央卫综合移动",CCTV4美洲
-http://120.234.220.107:9000/udp/239.21.0.108:3772
-#EXTINF:-1 group-title="央卫综合移动",江苏卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-#EXTINF:-1 group-title="央卫综合移动",深圳卫视
-http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
-#EXTINF:-1 group-title="央卫综合移动",北京卫视
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-#EXTINF:-1 group-title="央卫综合移动",山西卫视
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8?
-#EXTINF:-1 group-title="央卫综合移动",海南卫视
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
-#EXTINF:-1 group-title="央卫综合移动",黑龙江卫视
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
-#EXTINF:-1 group-title="央卫综合移动",黑龙江卫视
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="央卫综合移动",黑龙江卫视
+#EXTINF:-1,CCTV1
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+#EXTINF:-1,CCTV2
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+#EXTINF:-1,CCTV3
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1,CCTV4
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+#EXTINF:-1,CCTV5
+http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+#EXTINF:-1,CCTV5+
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+#EXTINF:-1,CCTV6
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+#EXTINF:-1,CCTV7
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+#EXTINF:-1,CCTV8
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+#EXTINF:-1,CCTV9
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+#EXTINF:-1,CCTV10
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+#EXTINF:-1,CCTV13
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+#EXTINF:-1,CCTV14
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+#EXTINF:-1,CCTV15
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1,CCTV16
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+#EXTINF:-1,凤凰卫视中文台
+http://60.250.216.209:8570/http/61.67.128.130:8078/hls/21/80/phoenixch.m3u8
+#EXTINF:-1,凤凰卫视资讯台
+http://60.250.216.209:8577/http/61.67.128.130:8078/hls/20/80/phoenixif.m3u8
+#EXTINF:-1,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+#EXTINF:-1,江苏卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+#EXTINF:-1,深圳卫视
+http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+#EXTINF:-1,北京卫视
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1,黑龙江卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-#EXTINF:-1 group-title="央卫综合移动",江苏卫视
-https://live.goodiptv.club/api/bestv.php?id=jswshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",广西卫视
-https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",四川卫视
-https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
-#EXTINF:-1 group-title="央卫综合移动",湖南卫视
-https://live.goodiptv.club/api/bestv.php?id=hunanwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",浙江卫视
-https://live.goodiptv.club/api/bestv.php?id=zjwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",东方卫视
-https://live.goodiptv.club/api/bestv.php?id=dfwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",北京卫视
-https://live.goodiptv.club/api/bestv.php?id=bjwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",天津卫视
-https://live.goodiptv.club/api/bestv.php?id=tjwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",辽宁卫视
-https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",安徽卫视
-https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",黑龙江卫视
-https://live.goodiptv.club/api/bestv.php?id=hljwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",广东卫视
-https://live.goodiptv.club/api/bestv.php?id=gdwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",深圳卫视
-https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",湖北卫视
-https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",吉林卫视
-https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",山东卫视
-https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",江西卫视
-https://live.goodiptv.club/api/bestv.php?id=jxws8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",河南卫视
-https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",河北卫视
-https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",甘肃卫视
-https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",重庆卫视
-https://live.goodiptv.club/api/bestv.php?id=cqws8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",东南卫视
-https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",云南卫视
-https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",贵州卫视
-https://live.goodiptv.club/api/bestv.php?id=gzwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",海南卫视
-https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 group-title="央卫综合移动",西藏卫视
-http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
+#EXTINF:-1,河北卫视
+http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+#EXTINF:-1,云南卫视
+http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+#EXTINF:-1,青海卫视
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1,三沙卫视
+https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+#EXTINF:-1,延边卫视
+http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+#EXTINF:-1,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1,浙江少儿
+http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+#EXTINF:-1,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+#EXTINF:-1,南京少儿
+http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
